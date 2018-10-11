@@ -1,1 +1,1 @@
-module github.com/gocuntian/testmod
+module github.com/gocuntian/testmod/v2
